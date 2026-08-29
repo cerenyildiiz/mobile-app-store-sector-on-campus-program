@@ -7,7 +7,7 @@ import random
 from datetime import datetime, timedelta
 
 # fixed seed so results are reproducible
-random.seed(42)
+random.seed(123)
 
 # settings
 N_USERS = 2000
